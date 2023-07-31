@@ -11,7 +11,7 @@ String Legacy Project - SNS 사이트
 김우주,이재호,조태정,손승기,전재영,박지현
 
 # 개발 환경
-IDE:STS-3.9.18.RELEASE
+  IDE:STS-3.9.18.RELEASE
 JAVA ver : 11.0.18
 JAVA Script ver : 1.0
 JAVA Script Plugin : JQuery 3.7.0
