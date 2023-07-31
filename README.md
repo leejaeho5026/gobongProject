@@ -14,12 +14,12 @@
       IDE:STS-3.9.18.RELEASE
       JAVA ver : 11.0.18
       JAVA Script ver : 1.0
-JAVA Script Plugin : JQuery 3.7.0
-Dynamic Web Module : 4.0
-Server : Apache Tomcat 9.0
-DB : Oracle 11 xe
-데이터 처리 패턴 : MVC2
-Library :  JSON, COS, COMMONS, LOMBOK
+      JAVA Script Plugin : JQuery 3.7.0
+      Dynamic Web Module : 4.0
+      Server : Apache Tomcat 9.0
+      DB : Oracle 11 xe
+      데이터 처리 패턴 : MVC2
+      Library :  JSON, COS, COMMONS, LOMBOK
 
 # 주요기능
 1.로그인,로그아웃
