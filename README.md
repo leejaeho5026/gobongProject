@@ -36,7 +36,7 @@
     10.해당 아이디의 팔로우 팔로잉 기능
 
 # 실행방법
-    gobong 압축파일 다운로드 이후 File Import 하고
+    gobong 최종본 압축파일 다운로드 이후 File Import 하고
     해당 프로젝트 Maven Update Project 하여 실행
     
     
